@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Jabaraj</h1>
 <h3 align="center">A passionate Student Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-cva&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-cva" /> </p>
 
