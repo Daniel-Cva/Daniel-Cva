@@ -6,6 +6,7 @@
 <p>Hello!👋 I'am Daniel Jabaraj, iam currently pursuing B.E-CSE( Computer Science and Engineering ) at Anna University</p>
 <p>Currently Volunteering as a Beta Microsoft Learn Student Ambassador, Community Builder ✌</p>
 <p>I love to join different community and competition that involve creating something for the soceity! 🙋‍♂️</p>
+
 - 🌱 I’m currently learning <b>Azure, Java, Spring, Website Developement, etc...</b>
 
 - 📫 How to reach me **E-Mail📧:danieljabaraj218@gmail.com.com**
@@ -13,9 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/daniel-jabaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="daniel-jabaraj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/magaswaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magaswaran" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-jabaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-jabaraj" height="30" width="40" /></a>
 <a href="https://instagram.com/daniel_jabaraj_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_jabaraj_v" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/danieljabarajcva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/danieljabarajcva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
