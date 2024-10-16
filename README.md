@@ -7,7 +7,7 @@
 <p>Currently Volunteering as a Beta Microsoft Learn Student Ambassador, Community Builder ✌</p>
 <p>I love to join different community and competition that involve creating something for the soceity! 🙋‍♂️</p>
 
-- 🌱 I’m currently learning <b>Azure, Java, Spring, Website Developement, etc...</b>
+- 🌱 I’m currently learning <b>Azure, Java, Spring, etc...</b>
 
 - 📫 How to reach me **E-Mail📧:danieljabaraj218@gmail.com.com**
 
